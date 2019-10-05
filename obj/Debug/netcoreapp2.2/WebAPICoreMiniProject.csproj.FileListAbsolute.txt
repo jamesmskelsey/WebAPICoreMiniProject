@@ -1,0 +1,14 @@
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\bin\Debug\netcoreapp2.2\WebAPICoreMiniProject.deps.json
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\bin\Debug\netcoreapp2.2\WebAPICoreMiniProject.runtimeconfig.json
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\bin\Debug\netcoreapp2.2\WebAPICoreMiniProject.runtimeconfig.dev.json
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\bin\Debug\netcoreapp2.2\WebAPICoreMiniProject.dll
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.csprojAssemblyReference.cache
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.RazorAssemblyInfo.cache
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.RazorAssemblyInfo.cs
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.AssemblyInfo.cs
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.RazorTargetAssemblyInfo.cache
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\bin\Debug\netcoreapp2.2\WebAPICoreMiniProject.pdb
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.dll
+C:\Users\James\source\repos\WebAPICoreMiniProjectApp\WebAPICoreMiniProject\obj\Debug\netcoreapp2.2\WebAPICoreMiniProject.pdb
